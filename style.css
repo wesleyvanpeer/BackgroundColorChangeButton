@@ -1,0 +1,14 @@
+  .magicbutton {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 40px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    background: black;
+    color: white;
+    border-radius: 20px;
+
+  }
